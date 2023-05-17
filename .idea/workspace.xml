@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="080e476a-3fcf-4d2f-a7bf-edb40f7f7477" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/nestmongoelastic/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestmongoelastic/src/components/user/dto/user.dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestmongoelastic/src/components/user/entity/user.entity.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestmongoelastic/src/components/user/user.repository.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestmongoelastic/src/constans/common.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestmongoelastic/src/database/config/ormconfig.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nestmongoelastic" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,10 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "develop",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684215900192</updated>
       <workItem from="1684215903730" duration="9000" />
+      <workItem from="1684315887614" duration="476000" />
     </task>
     <servers />
   </component>
